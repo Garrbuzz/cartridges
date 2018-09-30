@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"c",
+				"cover"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"gri",
+				"grid-row"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"grid-",
+				"grid-column-end"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"flax",
+				"flex-wrap"
+			],
+			[
+				"grid-t",
+				"grid-template-columns"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"grid-ro",
+				"grid-row-end"
+			],
+			[
+				"grid-column",
+				"grid-column-end"
+			],
+			[
+				"grid",
+				"grid-template-columns"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"f",
+				"fixed"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"grid-row",
+				"grid-row-start"
+			],
+			[
+				"grid-co",
+				"grid-column-end"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"Azbuka",
+				"Azbuka06.ttf"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"Background-c",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text-in",
+				"text-indent"
+			],
+			[
+				"lette",
+				"letter-spacing"
+			],
+			[
+				"col-md",
+				"col-md-2"
+			],
+			[
+				"md-",
+				"col-md-1"
+			],
+			[
+				"end",
+				"endfor"
+			],
+			[
+				"fore",
+				"foreach\tforeach …"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"last_filter": "livereload",
+		"selected_items":
+		[
+			[
+				"livereload",
+				"Snippet: Insert livereload.js script"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/openserver/OpenServer/domains/voloh/html/video.html",
+		"/E/openserver/OpenServer/domains/voloh/index.html",
+		"/E/openserver/OpenServer/domains/voloh/css/style.css",
+		"/E/openserver/OpenServer/domains/voloh/html/contacts.html",
+		"/E/openserver/OpenServer/domains/voloh/html/naturopatiya.html",
+		"/E/openserver/OpenServer/domains/voloh/html/catalog.html",
+		"/E/openserver/OpenServer/domains/voloh/css/bootstrap.css",
+		"/D/VP/Проекты/WEB/Voloh/images/19724204_2118372691723619_2039646515_o.jpg",
+		"/D/VP/Проекты/WEB/Partex/templates/B2B/templateBootstrap/222222222.html",
+		"/D/VP/Проекты/WEB/edu/index.php",
+		"/D/VP/Проекты/WEB/Partex/templates/B2B/templateBootstrap/css/style.css",
+		"/D/VP/Проекты/WEB/Partex/templates/B2B/templateBootstrap/index.html",
+		"/D/VP/Проекты/WEB/Seva_sled/new/work/index.html",
+		"/D/VP/Проекты/WEB/Seva_sled/new/work/css/style.css",
+		"/D/VP/Проекты/WEB/Partex/templates/B2B/backup/templates/b2b_vendor",
+		"/D/VP/Проекты/WEB/edu/php/b2b_price_uah.php",
+		"/D/VP/Проекты/WEB/html/templates/work/work/index.html",
+		"/D/VP/Проекты/WEB/edu/cardProd.php",
+		"/D/VP/Проекты/WEB/edu/php/changeProfile.php",
+		"/D/VP/Проекты/WEB/edu/php/b2b_order_from_list.php",
+		"/D/VP/Проекты/WEB/edu/php/b2b_orderlist.php",
+		"/D/VP/Проекты/WEB/Partex/HTML_New/b2b_style.css",
+		"/D/VP/Проекты/WEB/edu/foreach1.php",
+		"/D/VP/Проекты/WEB/edu/primes3first_200_400.php",
+		"/D/VP/Проекты/WEB/html/index.html",
+		"/D/VP/Проекты/WEB/html/Ed7YdFa7"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
